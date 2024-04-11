@@ -1,6 +1,8 @@
 # LeverFlag
 ![Alt Text](./img/leverflag.png)
 
+** Currently this is in active development**
+
 ## **Optimizing Development Workflow: Introducing LeverFlag - A Feature Flag Management Service**
 
 ### **Description:**
