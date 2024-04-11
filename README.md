@@ -1,7 +1,15 @@
 # LeverFlag
+
+### Disclaimer
+We're excited to announce that we've recently started working on this project and are actively developing it. Our goal is to deliver a high-quality product, and we're committed to continually improving and building upon it.
+
+While we're making progress, we know that there's still some time needed before our minimum viable product (MVP) and initial release. We appreciate your patience and support as we work towards this goal.
+
+Stay tuned for updates and thank you for your interest in our project!
+
+
 ![Alt Text](./img/leverflag.png)
 
-** Currently this is in active development**
 
 ## **Optimizing Development Workflow: Introducing LeverFlag - A Feature Flag Management Service**
 
